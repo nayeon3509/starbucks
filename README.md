@@ -1,2 +1,0 @@
-# starbucks
-Starbucks  Clone Coding
